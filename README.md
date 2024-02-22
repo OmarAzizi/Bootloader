@@ -19,5 +19,7 @@ Run with [QEMU](https://www.qemu.org/)
 qemu-system-x86_64 -hda boot.bin
 ```
 
-![Screenshot from 2024-02-23 02-32-55](https://github.com/OmarAzizi/Bootloader/assets/110500643/cf40a31f-2383-4a30-bed0-f14bb7c25693)
+Then you should see this
+
+![Screenshot from 2024-02-23 02-35-14](https://github.com/OmarAzizi/Bootloader/assets/110500643/2e37adc6-4045-40f9-b76f-d50a7a0c6a59)
 
